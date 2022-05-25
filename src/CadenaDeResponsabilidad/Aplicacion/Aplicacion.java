@@ -5,11 +5,11 @@ import CadenaDeResponsabilidad.Modelo.*;
 import java.util.Scanner;
 
 public class Aplicacion {
-    static Scanner sc = new Scanner(System.in);
+    static Scanner scanner = new Scanner(System.in);
 
     public static void main(String[] args) {
         System.out.println("Cantidad del prestamo: ");
-        int n = sc.nextInt();
+        int n = scanner.nextInt();
 
         solicitarPrestamo cadena = getChainOfRensability();
         cadena.responsabilidad(n);
