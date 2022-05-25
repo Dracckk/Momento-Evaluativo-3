@@ -5,39 +5,50 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7d039dbb-075f-4a73-8c3d-73a0f3add8bb" name="Changes" comment="1">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Modelo/Director.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Modelo/Ejecutivo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Modelo/Gerente.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Modelo/LiderEjecutivo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Observador/Aplicacion/init.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Observador/Aplicacion/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Observador/Modelo/Gramo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Observador/Modelo/IObserver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Observador/Modelo/Libra.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Observador/Modelo/Tonelada.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Aplicacion/Aplicacion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aplicacion/Aplicacion.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Modelo/Billete100Mil.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Modelo/Billete10Mil.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Modelo/Billete20Mil.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Modelo/Billete50Mil.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Modelo/DispensadorDeDinero.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Modelo/solicitarPrestamo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/src/Aplicacion/Aplicacion.java" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/src/Modelo/Director.java" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/src/Modelo/Ejecutivo.java" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/src/Modelo/Gerente.java" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/src/Modelo/LiderEjecutivo.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/CadenaDeResponsabilidad/Aplicacion/Aplicacion.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/CadenaDeResponsabilidad/Modelo/Director.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/CadenaDeResponsabilidad/Modelo/Ejecutivo.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/CadenaDeResponsabilidad/Modelo/Gerente.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/CadenaDeResponsabilidad/Modelo/LiderEjecutivo.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/Observador/Aplicacion/init.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/Observador/Aplicacion/main.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/Observador/Modelo/Gramo.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/Observador/Modelo/IObserver.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/Observador/Modelo/Libra.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/Observador/Modelo/Tonelada.java" root0="SKIP_INSPECTION" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="29czi83CDLeMmoLe8B1JbZF1ej7" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -48,7 +59,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/Usuario/Documents/POO/Java/MomentoEvaluativo3",
+    "last_opened_file_path": "C:/Users/Usuario/Documents/POO/Java/MomentoEvaluativo2",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -58,7 +69,7 @@
     "project.structure.side.proportion": "0.2"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.main">
     <configuration name="CadenaDeResponsabilidad.Aplicacion.Aplicacion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="CadenaDeResponsabilidad.Aplicacion.Aplicacion" />
       <module name="MomentoEvaluativo3" />
@@ -72,8 +83,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Observador.Aplicacion.main" />
+      <module name="MomentoEvaluativo3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Observador.Aplicacion.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.main" />
         <item itemvalue="Application.CadenaDeResponsabilidad.Aplicacion.Aplicacion" />
       </list>
     </recent_temporary>
@@ -87,7 +112,8 @@
       <option name="presentableId" value="Default" />
       <updated>1653427286760</updated>
       <workItem from="1653427288292" duration="867000" />
-      <workItem from="1653428186960" duration="1250000" />
+      <workItem from="1653428186960" duration="3008000" />
+      <workItem from="1653434755408" duration="6466000" />
     </task>
     <task id="LOCAL-00001" summary="1">
       <created>1653427998091</created>
@@ -103,7 +129,14 @@
       <option name="project" value="LOCAL" />
       <updated>1653428212240</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="1">
+      <created>1653429641465</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1653429641465</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
